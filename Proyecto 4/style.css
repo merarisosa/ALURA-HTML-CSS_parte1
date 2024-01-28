@@ -1,0 +1,25 @@
+body{
+    background: #CCCCCC;
+}
+h1{
+    text-align: center;
+    height: 150px;
+    border: 10px solid #CCCCCC;
+    padding: 20px;
+    margin: 40px;
+}
+p{
+    text-align: center;
+}
+
+em strong{
+    color: red;
+}
+
+#banner{
+    width: 100%;
+}
+
+#mision{
+    font-size: 20px;;
+}
